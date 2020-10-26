@@ -6,8 +6,13 @@
 Most of the commands were already known. I was already working with the Linux operating system. \
 Dealt with options and commands such as chmod, find.
 ## Git Collaboration
-![Linux Test](task_git_collaboration/UdacityGitCourse.png)
-![Linux Test](task_git_collaboration/LearnGitBranchCourse1.png)
-![Linux Test](task_git_collaboration/LearnGitBranchCourse2.png)
+![Git Test](task_git_collaboration/UdacityGitCourse.png)
+![Git Test](task_git_collaboration/LearnGitBranchCourse1.png)
+![Git Test](task_git_collaboration/LearnGitBranchCourse2.png)
 
 I learned how to make correct pull requests. Dealt with rebase and cherry-pick.
+## Intro to HTML and CSS
+![HTML Test](task_html_css_intro/UdacityHTMLCourse.png)
+![HTML Test](task_html_css_intro/CodecadamyHTML.png)
+
+I have already created web pages so there was not much new.
