@@ -16,3 +16,9 @@ I learned how to make correct pull requests. Dealt with rebase and cherry-pick.
 ![HTML Test](task_html_css_intro/CodecadamyHTML.png)
 
 I have already created web pages so there was not much new.
+## Responsive Web Design
+![Responsive Test](task_responsive_web_design/UdacityResponsive.png)
+![Responsive Test](task_responsive_web_design/FroggyFlexbox.png)
+
+I learned how to make a responsive website, use flexbox, and work with responsive units of measure.
+
