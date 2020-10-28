@@ -1,24 +1,43 @@
-# Learning repository from Kottans
-![Watch the video](https://i.gifer.com/origin/c7/c73c15b7856fba07f5ba4ab134baf15b.webp)
+# Kottans-frontend course
+
+- [x] Git intro 
+- [x] Linux CLI, HTTP
+- [x] Git for Team Collaboration
+- [x] Front-End Basics
+- [x] Responsive Layouts
+- [ ] HTML & CSS Practice - practice
+- [ ] JavaScript Basics
+- [ ] Document Object Model - practice
+- [ ] Building a Tiny JS World (pre-OOP) - practice
+- [ ] Object-Oriented JavaScript - practice
+- [ ] OOP exercise - practice
+- [ ] Offline Web Applications - optional
+- [ ] Memory – Pair Game - practice
+- [ ] Website Performance Optimization - optional
+- [ ] Friends App - practice
+
 ## Linux CLI, and HTTP
-![Linux Test](task_linux_cli/LinuxConclusion.png)
-
-Most of the commands were already known. I was already working with the Linux operating system. \
-Dealt with options and commands such as chmod, find.
+[Screenshots](task_linux_cli)
++ I have been using Linux for about a year, so I knew the basic commands.
++ I am surprised by the power and flexibility of the Linux CLI.
++ I intend to use in future - general commands, such as ls, cd, pwd, cat, curl etc.
+---
 ## Git Collaboration
-![Git Test](task_git_collaboration/UdacityGitCourse.png)
-![Git Test](task_git_collaboration/LearnGitBranchCourse1.png)
-![Git Test](task_git_collaboration/LearnGitBranchCourse2.png)
-
-I learned how to make correct pull requests. Dealt with rebase and cherry-pick.
+[Screenshots](task_git_collaboration)
++ I learned a lot, learned about the rebase, cherry-pick
++ I was surprised that deleting commits is very easy. I have often had problems with it.
++ I think that all the commands and tricks for me will be needed soon.
+---
 ## Intro to HTML and CSS
-![HTML Test](task_html_css_intro/UdacityHTMLCourse.png)
-![HTML Test](task_html_css_intro/CodecadamyHTML.png)
-
-I have already created web pages so there was not much new.
+[Screenshots](task_html_css_intro)
++ Thanks to the course, I learned some  new tags, pseudo-elements, selectors.
++ I didn't know how easy it is to do field validation.
++ I intend to use in future - attribute pattern and regular expressions for validation.
+---
 ## Responsive Web Design
-![Responsive Test](task_responsive_web_design/UdacityResponsive.png)
-![Responsive Test](task_responsive_web_design/FroggyFlexbox.png)
-
-I learned how to make a responsive website, use flexbox, and work with responsive units of measure.
-
+[Screenshots](task_responsive_web_design)
++ I learned more about the responsive layout. Learned more about the units of \
+ measurement associated with the screen.
++ The flexibility and ease of use of flexbox surprised me, in most cases I use it.
++ I intend to use in future - flexbox, responsive design features, media queries.
+---
