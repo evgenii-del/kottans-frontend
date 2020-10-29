@@ -41,3 +41,9 @@
 + The flexibility and ease of use of flexbox surprised me, in most cases I use it.
 + I intend to use in future - flexbox, responsive design features, media queries.
 ---
+## JS Basics
+[Screenshots](task_js_basics)
++ After completing the tasks at freecodecamp.org, I got a lot of experience.
++ I was surprised by the capabilities of ES6, the code looks clearer and simpler.
++ I am going to use all ES6 features in the future.
+---
