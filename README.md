@@ -6,7 +6,7 @@
 - [x] Front-End Basics
 - [x] Responsive Layouts
 - [ ] HTML & CSS Practice - practice
-- [ ] JavaScript Basics
+- [x] JavaScript Basics
 - [ ] Document Object Model - practice
 - [ ] Building a Tiny JS World (pre-OOP) - practice
 - [ ] Object-Oriented JavaScript - practice
