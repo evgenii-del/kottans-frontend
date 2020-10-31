@@ -41,9 +41,25 @@
 + The flexibility and ease of use of flexbox surprised me, in most cases I use it.
 + I intend to use in future - flexbox, responsive design features, media queries.
 ---
+## HTML & CSS Practice
+[Code](https://github.com/evgenii-del/kottans-popup) | [Demo](http://vivacious-tooth.surge.sh/)
++ I learned a new pseudo-class :focus.
++ I was surprised that you can create a popup without using JS.
++ In the future, I will use the knowledge I received after the review from the mentors.
+---
 ## JS Basics
 [Screenshots](task_js_basics)
 + After completing the tasks at freecodecamp.org, I got a lot of experience.
 + I was surprised by the capabilities of ES6, the code looks clearer and simpler.
 + I am going to use all ES6 features in the future.
+---
+## DOM
+[Screenshots](task_js_dom)
++ Keyboard and mouse events were new to me.
++ I was surprised by browser events.
++ I intend to use in future different methods and properties, such as createElement, \
+ querySelector, remove(), .setAttribute().
+### Practice
+[Code](https://github.com/evgenii-del/kottans-menu) | [Demo](http://nauseating-disease.surge.sh/)
+
 ---
