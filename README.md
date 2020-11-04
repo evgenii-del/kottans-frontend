@@ -5,11 +5,11 @@
 - [x] Git for Team Collaboration
 - [x] Front-End Basics
 - [x] Responsive Layouts
-- [ ] HTML & CSS Practice - practice
+- [x] HTML & CSS Practice - practice
 - [x] JavaScript Basics
 - [ ] Document Object Model - practice
-- [ ] Building a Tiny JS World (pre-OOP) - practice
-- [ ] Object-Oriented JavaScript - practice
+- [x] Building a Tiny JS World (pre-OOP) - practice
+- [x] Object-Oriented JavaScript - practice
 - [ ] OOP exercise - practice
 - [ ] Offline Web Applications - optional
 - [ ] Memory – Pair Game - practice
@@ -67,4 +67,7 @@
 [Code](https://github.com/evgenii-del/a-tiny-JS-world) | [Demo](http://careful-bean.surge.sh/) reviewed @MaxKalashnyk
 ## Object-Oriented JavaScript
 [Screenshots](task_js_oop)
+
 [Code](https://github.com/evgenii-del/frontend-nanodegree-arcade-game) | [Demo](http://vigorous-step.surge.sh/) reviewed @zonzujiro
+## OOP exercise
+[Code](https://github.com/evgenii-del/a-tiny-JS-world) | [Demo](http://changeable-news.surge.sh/)
