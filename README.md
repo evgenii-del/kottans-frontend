@@ -42,7 +42,7 @@
 + I intend to use in future - flexbox, responsive design features, media queries.
 ---
 ## HTML & CSS Practice
-[Code](https://github.com/evgenii-del/kottans-popup) | [Demo](http://vivacious-tooth.surge.sh/)
+[Code](https://github.com/evgenii-del/kottans-popup) | [Demo](http://vivacious-tooth.surge.sh/) reviewed @OleksiyRudenko
 + I learned a new pseudo-class :focus.
 + I was surprised that you can create a popup without using JS.
 + In the future, I will use the knowledge I received after the review from the mentors.
@@ -63,3 +63,8 @@
 [Code](https://github.com/evgenii-del/kottans-menu) | [Demo](http://nauseating-disease.surge.sh/)
 
 ---
+## Building a Tiny JS World (pre-OOP)
+[Code](https://github.com/evgenii-del/a-tiny-JS-world) | [Demo](http://careful-bean.surge.sh/) reviewed @MaxKalashnyk
+## Object-Oriented JavaScript
+[Screenshots](task_js_oop)
+[Code](https://github.com/evgenii-del/frontend-nanodegree-arcade-game) | [Demo](http://vigorous-step.surge.sh/) reviewed @zonzujiro
