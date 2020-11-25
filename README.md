@@ -7,12 +7,12 @@
 - [x] Responsive Layouts
 - [x] HTML & CSS Practice - practice
 - [x] JavaScript Basics
-- [ ] Document Object Model - practice
+- [x] Document Object Model - practice
 - [x] Building a Tiny JS World (pre-OOP) - practice
 - [x] Object-Oriented JavaScript - practice
-- [ ] OOP exercise - practice
+- [x] OOP exercise - practice
 - [ ] Offline Web Applications - optional
-- [ ] Memory – Pair Game - practice
+- [x] Memory – Pair Game - practice
 - [ ] Website Performance Optimization - optional
 - [ ] Friends App - practice
 
@@ -71,3 +71,7 @@
 [Code](https://github.com/evgenii-del/frontend-nanodegree-arcade-game) | [Demo](http://vigorous-step.surge.sh/) reviewed @zonzujiro
 ## OOP exercise
 [Code](https://github.com/evgenii-del/a-tiny-JS-world) | [Demo](http://changeable-news.surge.sh/)
+## Memory – Pair Game
+[Code](https://github.com/evgenii-del/kottans-memory-game) | [Demo](http://ad-police.surge.sh/)
+## Friends App
+[Code](https://github.com/evgenii-del/kottans-friends-app) | [Demo](http://worried-band.surge.sh/)
