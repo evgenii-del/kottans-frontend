@@ -14,7 +14,7 @@
 - [ ] Offline Web Applications - optional
 - [x] Memory – Pair Game - practice
 - [ ] Website Performance Optimization - optional
-- [ ] Friends App - practice
+- [x] Friends App - practice
 
 ## Linux CLI, and HTTP
 [Screenshots](task_linux_cli)
@@ -60,18 +60,25 @@
 + I intend to use in future different methods and properties, such as createElement, \
  querySelector, remove(), .setAttribute().
 ### Practice
-[Code](https://github.com/evgenii-del/kottans-menu) | [Demo](http://nauseating-disease.surge.sh/)
+[Code](https://github.com/evgenii-del/kottans-menu) | [Demo](http://nauseating-disease.surge.sh/) reviewed @MaxKalashnyk
 
 ---
 ## Building a Tiny JS World (pre-OOP)
 [Code](https://github.com/evgenii-del/a-tiny-JS-world) | [Demo](http://careful-bean.surge.sh/) reviewed @MaxKalashnyk
-## Object-Oriented JavaScript
-[Screenshots](task_js_oop)
 
+---
+## Object-Oriented JavaScript
+[Screenshots](task_js_oop) \
 [Code](https://github.com/evgenii-del/frontend-nanodegree-arcade-game) | [Demo](http://vigorous-step.surge.sh/) reviewed @zonzujiro
+
+---
 ## OOP exercise
-[Code](https://github.com/evgenii-del/a-tiny-JS-world) | [Demo](http://changeable-news.surge.sh/)
+[Code](https://github.com/evgenii-del/a-tiny-JS-world) | [Demo](http://changeable-news.surge.sh/) reviewed @OleksiyRudenko
+
+---
 ## Memory – Pair Game
-[Code](https://github.com/evgenii-del/kottans-memory-game) | [Demo](http://ad-police.surge.sh/)
+[Code](https://github.com/evgenii-del/kottans-memory-game) | [Demo](http://ad-police.surge.sh/) reviewed @MaxKalashnyk
+
+---
 ## Friends App
-[Code](https://github.com/evgenii-del/kottans-friends-app) | [Demo](http://worried-band.surge.sh/)
+[Code](https://github.com/evgenii-del/kottans-friends-app) | [Demo](http://worried-band.surge.sh/) reviewed @AMashoshyna
